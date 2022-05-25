@@ -16,7 +16,6 @@ void bubblesort(int *arr,int n)
 			}
 				
 		}
-		printf("hi\n");
 		if(sc==0)
 		{
 			break;
